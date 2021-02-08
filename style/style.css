@@ -207,8 +207,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
   }
-  .rated-one star {
-  }
+
   .rating-two {
     display: block;
     flex-direction: column;
